@@ -1,122 +1,133 @@
 <div align="center">
 
-  <!-- DYNAMIC CYBER HEADER BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,6,12&height=210&section=header&text=ARIS%20DO&fontSize=50&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=%5B%20JAVA%20BACKEND%20DEVELOPER%20%C2%B7%20WEB%20SYSTEMS%20%C2%B7%20QA%20ENGINEERING%20%5D&descAlignY=62&descSize=14&descColor=CBD5E1" alt="Aris Do Header" />
+  <!-- 1. ANIMATED WAVING HEADER -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=200&section=header&text=ARIS%20DO&fontSize=54&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=JAVA%20BACKEND%20%C2%B7%20ENTERPRISE%20WEB%20%C2%B7%20QA%20ENGINEERING&descAlignY=55&descSize=15&descColor=E2E8F0" alt="Header" />
 
-  <!-- MULTILINE CLI TYPING TERMINAL -->
+  <!-- 2. ANIMATED TYPING HEADLINE -->
   <a href="https://github.com/arisdo-29">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=true&width=820&height=95&lines=%24+systemctl+status+engineer-profile+--user%3Darisdo-29;%3E+CORE+STACK%3A+Java+17%2F21+%C2%B7+Spring+Boot+%26+Hibernate+%C2%B7+Jakarta+EE;%3E+DISCIPLINE%3A+Clean+Architecture+%C2%B7+Git+PR+Workflows+%C2%B7+QA+Verification;%3E+ACTIVE+REPOS%3A+ShareLoop+Platform+%C2%B7+Saigon+Waterbus+%C2%B7+Java+Web+Systems" alt="Interactive Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=800&color=0284C7&center=true&vCenter=true&width=750&lines=%3E+Building+Scalable+Web+Systems+with+Java+%26+Spring+Boot;%3E+Delivering+Clean+MVC+%26+Hibernate+ORM+Architectures;%3E+Ensuring+Zero-Regression+Releases+via+Strict+Staging+QA" alt="Typing Headline" />
   </a>
 
   <br/>
 
-  <!-- SYSTEM TELEMETRY BADGES -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-BUILDING_IN_JAVA-050811?style=for-the-badge&logo=openjdk&logoColor=00F0FF&labelColor=020408" alt="Status" />
-    <img src="https://img.shields.io/badge/FOCUS-BACKEND_%26_WEB_APPS-050811?style=for-the-badge&logo=springboot&logoColor=6366F1&labelColor=020408" alt="Focus" />
-    <img src="https://img.shields.io/badge/BASE-VIETNAM_%5BUTC%2B7%5D-050811?style=for-the-badge&logo=googlemaps&logoColor=00F0FF&labelColor=020408" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=arisdo-29&label=PROFILE+VIEWS&color=050811&style=for-the-badge&labelColor=020408" alt="Views" />
-  </p>
+  <!-- 3. GLOWING STATUS PILLS -->
+  <a href="https://github.com/arisdo-29?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-ACTIVE_PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=020617" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/CONTACT-EMAIL_ME-0F172A?style=for-the-badge&logo=gmail&logoColor=818CF8&labelColor=020617" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=arisdo-29&label=VIEWS&color=0F172A&style=for-the-badge&labelColor=020617" />
 
 </div>
 
----
+<br/>
 
-### // 01. EXECUTIVE SUMMARY
+<!-- 4. DUAL-COLUMN LIVE HUD (COMPACT BIO + ANIMATED STREAK RING) -->
+<table width="100%">
+  <tr>
+    <td width="52%" valign="middle" align="center">
+      <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13.5&duration=3200&pause=1000&color=38BDF8&background=090D16&center=false&vCenter=true&multiline=true&width=440&height=165&lines=%24+cat+developer_profile.yml;──────────────────────────────;role%3A+Java+Backend+%26+QA+Engineer;focus%3A+Spring+Boot+%C2%B7+Hibernate+%C2%B7+JSP;workflow%3A+Fork+%E2%86%92+PR+%E2%86%92+Staging+QA;location%3A+Ho+Chi+Minh+City%2C+VN" alt="Terminal Specs" />
+    </td>
+    <td width="48%" valign="middle" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?user=arisdo-29&theme=tokyonight&hide_border=true&background=090D16&ring=00F0FF&fire=818CF8&currStreakLabel=00F0FF&sideLabels=94A3B8&border_radius=10" alt="Animated Streak" />
+    </td>
+  </tr>
+</table>
 
-Software Engineering student specializing in **Java Backend Development**, **Enterprise Web Applications**, and **Software Quality Assurance**. Experienced in delivering full-lifecycle academic and collaborative software projects with high commit consistency and clean architectural standards.
+<br/>
 
-* **Java Web & Backend Engineering:** Hands-on experience building scalable web platforms using **Java**, **Spring Framework / Spring Boot**, **Hibernate ORM (HSF302)**, and **Jakarta EE / Servlet-JSP (PRJ301)**.
-* **Collaborative Project Delivery:** Active contributor in multi-member software engineering teams (**SWP391**), handling backend business logic, database schema design, and UI refinement across administrator and member portals.
-* **Quality Assurance & Release Validation:** Skilled in Git fork/branch/PR workflows, peer code reviews, cross-portal UI polishing, and end-to-end functional verification.
-
----
-
-### // 02. TECHNICAL ARSENAL
-
-| Domain | Technologies & Engineering Standards |
-| :--- | :--- |
-| **Java & Backend** | `Java 17 / 21` · `Spring Boot` · `Spring MVC` · `Hibernate / JPA` · `Servlet & JSP` · `Maven` · `RESTful APIs` |
-| **Database & Storage** | `Microsoft SQL Server` · `MySQL` · `Relational Schema Design` · `ORM Mapping` · `SQL Query Optimization` |
-| **Frontend & Web** | `TypeScript` · `JavaScript (ES6+)` · `HTML5 / CSS3` · `Responsive Admin & Member Portals` |
-| **QA & Workflow** | `Git (Fork / Branch / PR Workflow)` · `GitHub Actions` · `IntelliJ IDEA` · `Postman` · `Staging QA Testing` |
-
----
-
-### // 03. FEATURED JAVA REPOSITORIES
-
-#### [01] [swp391_shareloop_team1_fa26](https://github.com/arisdo-29/swp391_shareloop_team1_fa26) — ShareLoop Platform
-* **Category:** Software Development Project (`SWP391` · Team 1 · Fall 2026)
-* **Tech Stack:** `Java` · `Spring Boot / Web MVC` · `Relational Database` · `Full-Stack Web UI`
-* **Key Highlights:**
-  * Collaborative software engineering platform featuring multi-role access control across member and administrator interfaces.
-  * Engineered core backend workflows, system configuration modules, collapsible navigation layouts, and interactive modal components.
-  * Managed iterative feature delivery, bug tracking, and pull-request verification across an active team repository.
-
-#### [02] [waterbus](https://github.com/arisdo-29/waterbus) — Saigon Waterbus Ticket Booking System
-* **Category:** Hibernate & Spring Framework Project (`HSF302`)
-* **Tech Stack:** `Java` · `Spring Framework` · `Hibernate ORM` · `SQL Server / MySQL` · `Web UI`
-* **Key Highlights:**
-  * Online river-bus ticket reservation platform (*Saigon Waterbus - Web đặt vé buýt đường sông*) supporting route lookup, trip scheduling, and seat booking.
-  * Implemented data persistence layers with Hibernate/JPA entities, transaction management, and booking validation rules.
-
-#### [03] [PRJ301_su26_group8](https://github.com/arisdo-29/PRJ301_su26_group8) — Java Web Application Project
-* **Category:** Java Web Application Development (`PRJ301` · Group 8 · Summer 2026)
-* **Tech Stack:** `Java` · `Jakarta EE (Servlet / JSP)` · `MVC Architecture` · `JDBC` · `SQL Server`
-* **Key Highlights:**
-  * Built a structured MVC web application handling user authentication, session management, CRUD operations, and relational database integration.
-  * Enforced clean separation of concerns between DAO data access layers, Controller servlets, and dynamic web views.
-
----
-
-### // 04. ENGINEERING WORKFLOW & QA PROTOCOL
-
-Every feature and bug fix follows a strict verification lifecycle from local development to production merge:
-
-<pre>
-[Issue / Requirement]   ──► [Feature Branch / Fork] ──► [Local Unit & DB Validation]
-                                                                  │
-[Staging Environment]   ◄── [Pull Request & Review] ◄─────────────┘
-         │
-         ▼
-[QA Regression Pass]    ──► [Merge to Main / Release]
-</pre>
-
-* **Branching & PR Discipline:** Clean commits (`feat/`, `fix/`, `refactor/`) with isolated changesets for streamlined team code review.
-* **Systematic QA Verification:** End-to-end testing of backend endpoints, database constraints, and frontend UI responsiveness prior to release.
-
----
-
-### // 05. CONTRIBUTION SNAKE (LIVE MOTION)
-
+<!-- 5. VISUAL TECH STACK DOCK -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=2000&color=0284C7&center=true&vCenter=true&width=500&lines=%2F%2F+TECHNICAL+ARSENAL+%26+TOOLS" alt="Tech Header" />
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,ts,js,html,css,git,github,postman,idea&theme=dark&perline=6" alt="Tech Icons" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java_17_%2F_21-090D16?style=for-the-badge&logo=openjdk&logoColor=00F0FF" />
+    <img src="https://img.shields.io/badge/Spring_Boot_3-090D16?style=for-the-badge&logo=springboot&logoColor=4ADE80" />
+    <img src="https://img.shields.io/badge/Hibernate_ORM-090D16?style=for-the-badge&logo=hibernate&logoColor=FBBF24" />
+    <img src="https://img.shields.io/badge/Jakarta_EE_%2F_JSP-090D16?style=for-the-badge&logo=eclipseide&logoColor=818CF8" />
+    <img src="https://img.shields.io/badge/SQL_Server-090D16?style=for-the-badge&logo=microsoftsqlserver&logoColor=F43F5E" />
+  </p>
+</div>
+
+<br/>
+
+<!-- 6. 2x2 BENTO GRID FOR FEATURED REPOSITORIES (COMPACT & CLICKABLE) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=2000&color=0284C7&center=true&vCenter=true&width=500&lines=%2F%2F+FEATURED+REPOSITORIES" alt="Repo Header" />
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/arisdo-29/swp391_shareloop_team1_fa26">
+        <img src="https://img.shields.io/badge/01-SHARELOOP_PLATFORM-090D16?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0284C7" />
+      </a>
+      <p>Multi-role resource sharing platform featuring redesigned Admin & Member portals, collapsible navigation, and full-cycle QA validation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/SWP391-0F172A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Full--Stack_Web-0F172A?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/arisdo-29/waterbus">
+        <img src="https://img.shields.io/badge/02-SAIGON_WATERBUS-090D16?style=for-the-badge&logo=github&logoColor=4ADE80&labelColor=0284C7" />
+      </a>
+      <p>Online river-bus ticket reservation system supporting route scheduling, real-time seat booking, and ORM transaction management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Spring_%26_Hibernate-0F172A?style=flat-square&logo=springboot&logoColor=4ADE80" />
+        <img src="https://img.shields.io/badge/HSF302-0F172A?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/arisdo-29/PRJ301_su26_group8">
+        <img src="https://img.shields.io/badge/03-PRJ301_WEB_SYSTEM-090D16?style=for-the-badge&logo=github&logoColor=818CF8&labelColor=0284C7" />
+      </a>
+      <p>Enterprise MVC web application implementing authentication, session state control, and relational database CRUD workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_EE-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Servlet_%2F_JSP-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQL_Server-0F172A?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/arisdo-29/duong-sach-project">
+        <img src="https://img.shields.io/badge/04-DUONG_SACH_PROJECT-090D16?style=for-the-badge&logo=github&logoColor=FBBF24&labelColor=0284C7" />
+      </a>
+      <p>Interactive web frontend application engineered with modular TypeScript components and responsive modern UI layouts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Modern_UI-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web_App-0F172A?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- 7. LIVE MOTION: CONTRIBUTION SNAKE & ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=2000&color=0284C7&center=true&vCenter=true&width=550&lines=%2F%2F+LIVE+CONTRIBUTION+FEED+%5B593%2B+COMMITS%5D" alt="Activity Header" />
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arisdo-29/arisdo-29/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arisdo-29/arisdo-29/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arisdo-29/arisdo-29/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arisdo-29/arisdo-29/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-</div>
-
----
-
-### // 06. CONNECT & REPOSITORIES
-
-<div align="center">
-
-  <a href="https://github.com/arisdo-29?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE_ALL_PROJECTS-050811?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=020408" alt="Repositories" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/CONTACT-EMAIL_ME-050811?style=for-the-badge&logo=gmail&logoColor=6366F1&labelColor=020408" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-050811?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=020408" alt="LinkedIn" />
-  </a>
 
   <br/><br/>
 
-  <sub><code>STATUS: 200 OK</code> — Engineered by <b>arisdo-29</b> · Pure SVG Motion & Clean Markdown</sub>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arisdo-29&bg_color=090D16&color=38BDF8&line=00F0FF&point=818CF8&area=true&hide_border=true&border_radius=12&custom_title=REAL-TIME%20COMMIT%20FREQUENCY" alt="Commit Graph" />
 </div>
+
+<!-- 8. ANIMATED WAVING FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=110&section=footer" alt="Animated Footer" />
